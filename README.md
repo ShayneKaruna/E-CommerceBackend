@@ -30,7 +30,7 @@ This App is the back end for an e-commerce site. Uses Express.js API to use Sequ
 - Use Insomnia to test routes
 
 ### Walkthrough Video
-https://app.castify.com/watch/a741228d-ad48-49a3-8b56-b78e2151d029 to see a walkthrough video of the app.
+https://app.castify.com/view/a741228d-ad48-49a3-8b56-b78e2151d029 to see a walkthrough video of the app.
 
 ## License
 The Application is covered under MIT license
